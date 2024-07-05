@@ -1,1 +1,1 @@
-Welcome to my calculator app made with Java and Java Swing. The calculator has basic arithmetic such as additon, subtraction, multiplying and dividing. 
+Welcome to my calculator app made with Java and Java Swing. This calculator has basic arithmetic such as additon, subtraction, multiplying and dividing. Above you'll find my java program, I apologize for the incovenience but you'll have to download my program in order to run it, ensure you have java on your device. Thank you!
